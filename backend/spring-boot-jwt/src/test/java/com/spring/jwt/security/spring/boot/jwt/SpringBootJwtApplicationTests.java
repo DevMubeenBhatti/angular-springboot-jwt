@@ -1,10 +1,10 @@
-package com.spring.security.spingbootjwt;
+package com.spring.jwt.security.spring.boot.jwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpingbootjwtApplicationTests {
+class SpringBootJwtApplicationTests {
 
 	@Test
 	void contextLoads() {

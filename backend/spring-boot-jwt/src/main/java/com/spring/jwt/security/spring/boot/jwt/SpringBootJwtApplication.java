@@ -1,13 +1,13 @@
-package com.spring.security.spingbootjwt;
+package com.spring.jwt.security.spring.boot.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpingbootjwtApplication {
+public class SpringBootJwtApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpingbootjwtApplication.class, args);
+		SpringApplication.run(SpringBootJwtApplication.class, args);
 	}
 
 }
